@@ -1,4 +1,5 @@
 # Wonder Bot
+A Discord bot that can ~~make noises~~ play music.
 
 ### Running
 Add commands to the Discord's server:
